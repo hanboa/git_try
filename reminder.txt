@@ -1,0 +1,1 @@
+git add 前要養成習慣先git diff看有什麼樣的改變
